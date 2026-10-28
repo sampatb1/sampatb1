@@ -1,5 +1,6 @@
-About Me:
-Data Science Grad at UT Dallas
+## Hey, I'm Sampat 👋
+Data Science @ UT Dallas
+
 
 <!---
 sampatb1/sampatb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
